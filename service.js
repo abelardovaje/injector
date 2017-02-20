@@ -6,11 +6,9 @@ module.exports = function(app){
 		}
 
 		function get(){
-			console.log('get');
+			console.log('get1');
 		}
 	});
-
-
 
 }
 
